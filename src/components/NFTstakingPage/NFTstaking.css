@@ -1,0 +1,104 @@
+.staking-span {
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 144%;
+  color: #ffff;
+}
+
+.NFTstaking-boxes {
+  background: #26282f;
+  box-shadow: 0 8px 8px rgb(0 0 0 / 8%);
+  border-radius: 16px;
+  height: 504px;
+}
+
+.NFTstaking-boxes1 {
+  background: #3c2226;
+  border-radius: 16px 16px 0 0;
+  padding: 7px 0;
+}
+
+.nftstaking-p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 144%;
+  color: #fff;
+}
+
+.nftstaking-p1 {
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 12%;
+  color: #fd5043;
+}
+
+.boxs-staking {
+  background: linear-gradient(90deg, #1a1c23, rgba(26, 28, 35, 0));
+  border-radius: 8px;
+  padding: 12px 2px;
+}
+
+.nftstaking-span2 {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 144%;
+  color: #7e808d;
+}
+
+.nftstaking-span3 {
+  font-weight: 500;
+  font-size: 16px;
+  color: #b1b1b1;
+}
+
+.nft-staking-p {
+  line-height: 122%;
+  text-align: center;
+}
+.nft-staking-p,
+.nftstaking-span3 {
+  font-weight: 500;
+  font-size: 16px;
+  color: #b1b1b1;
+}
+
+.nft-staking-p1 {
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 54%;
+  color: #7e808d;
+  text-align: center;
+}
+
+.btn-unstake21,
+.btn-unstake22 {
+  border-radius: 20px;
+  line-height: 7px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: #fff;
+}
+
+.btn-unstake21 {
+  background: linear-gradient(90deg, #f92d1e 1%, #ff5043);
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.btn-unstake22 {
+  background: linear-gradient(90deg, #565866 1.7%, #5e606e);
+  font-weight: 500;
+  font-size: 17px;
+}
+
+.nft-staking-b0xxs {
+  background: #3c2226;
+  box-shadow: 0 4px 4px rgb(0 0 0 / 25%);
+  border-radius: 5px;
+  width: 183px;
+}
+
+.nftstaking-img {
+  width: 160px;
+  height: 180px;
+}

@@ -1,0 +1,16 @@
+.nft-h4 {
+  font-weight: 600;
+  font-size: 36px;
+}
+
+.nft-h4,
+.nft-p {
+  line-height: 100%;
+  color: #ffff;
+  text-align: left;
+}
+
+.nft-p {
+  font-weight: 700;
+  font-size: 20px;
+}

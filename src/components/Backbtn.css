@@ -1,0 +1,18 @@
+.backbtn {
+  color: #ffff;
+  font-size: 20px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.backbtn:hover {
+  color: rgb(189, 189, 189);
+}
+
+.backbtn__arrow {
+  margin-right: 8px;
+}
+
+.link {
+  text-decoration: none;
+}

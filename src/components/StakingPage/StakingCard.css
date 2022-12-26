@@ -1,0 +1,95 @@
+.staking_card_container {
+  border: 1px solid #fd5043;
+  border-radius: 25px;
+}
+
+.staking__card {
+  color: #ffff;
+  font-weight: 600;
+  background-color: #000000;
+  border-radius: 15px;
+}
+
+.staking__card__heading {
+  border-radius: 15px 15px 0 0 !important;
+  background-color: #3c2226;
+}
+
+.staking__card__heading_icon {
+  cursor: pointer;
+}
+
+.toolTipImg {
+  position: absolute;
+  display: none;
+}
+
+.toolTipImg img {
+  margin-top: 15px;
+  margin-left: 2px;
+  width: 100%;
+}
+
+.staking__card__heading_text {
+  text-transform: uppercase;
+  font-size: 18px;
+}
+
+.staking__card__valuesField {
+  background: linear-gradient(90deg, #1a1c23, rgba(26, 28, 35, 0));
+  border-radius: 10px;
+  color: #7e808d;
+  font-size: 18px;
+}
+
+.staking__card__valuesField input::-webkit-outer-spin-button,
+.staking__card__valuesField input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.staking__card__valuesField input {
+  background: #1a1c23;
+  width: 80px;
+  color: #7e808d;
+  font-size: 18px;
+  font-weight: 600;
+  border-color: #7e808d;
+}
+
+.staking__card__valuesField input:focus {
+  color: #7e808d;
+  background: #1a1c23;
+}
+
+.staking__card__btn {
+  background-color: #7e808d;
+  width: 100%;
+  border-radius: 25px;
+  font-size: 18px;
+  font-weight: 600;
+  color: #ffff;
+}
+
+.staking__card__btn:hover {
+  color: #7e808d;
+  background-color: #ffff;
+}
+
+.staking__card__RedeemBtn {
+  background: linear-gradient(90deg, #f92d1e 1.7%, #ff5043);
+  border-radius: 80px;
+  margin-bottom: 15px;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  color: #fff;
+  padding: 10px 20px;
+  width: 100%;
+  letter-spacing: 0.8px;
+}
+
+.staking__card__RedeemBtn:hover {
+  background: #ffff !important;
+  color: #f92d1e;
+}

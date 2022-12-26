@@ -1,0 +1,49 @@
+.navbar {
+  background-color: #111217 !important;
+}
+
+.navbar-brand img {
+  width: 125px;
+  object-fit: contain;
+}
+
+.nav-item > .nav-link {
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.active > .nav-link {
+  border-bottom: 2px solid rgb(249, 45, 30);
+  background: linear-gradient(
+    to bottom,
+    rgba(249, 45, 30, 0),
+    rgba(249, 45, 30, 0.3)
+  );
+  color: #ffff;
+}
+
+#navbarText {
+  margin-left: 30px;
+}
+
+.social-icons > .icon {
+  margin: 6px;
+  font-size: 30px;
+  color: rgb(188, 90, 90);
+  cursor: pointer;
+  transition: 0.4s;
+}
+.social-icons > .icon:hover {
+  color: rgb(160, 58, 58);
+}
+
+.nav__bottom_box {
+  background-color: #111217;
+}
+
+@media screen and (max-width: 990px) {
+  .container {
+    text-align: center;
+  }
+}

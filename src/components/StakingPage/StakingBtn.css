@@ -1,0 +1,43 @@
+.staking__btn {
+  font-size: 18px;
+  font-weight: 600;
+  padding: 6px 12px;
+  background-color: #212529 !important;
+  color: #5f3937 !important;
+  border-color: #212529 !important;
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.staking__btn:hover {
+  background-color: #2e1c1c !important;
+  color: #75302b !important;
+}
+
+.btnImg {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+  margin-right: 10px;
+  filter: brightness(0.4);
+}
+
+.active-stake {
+  color: #fd5043 !important;
+  background-color: #5f2926 !important;
+  border-color: #5f2926 !important;
+}
+
+.active-stake:hover {
+  background-color: #361717 !important;
+  color: #c03b32 !important;
+}
+
+.active-stake .btnImg {
+  filter: brightness(1);
+}
+
+.staking_link {
+  text-decoration: none;
+}

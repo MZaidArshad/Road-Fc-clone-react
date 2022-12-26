@@ -1,0 +1,14 @@
+.connBtn {
+  background: linear-gradient(90deg, #f92d1e 1.7%, #ff5043);
+  border-radius: 80px;
+  font-weight: 700;
+  font-size: 1.4em;
+  line-height: 27px;
+  color: #fff;
+  padding: 10px 15px;
+  vertical-align: middle;
+}
+
+.connectBar {
+  align-items: center;
+}

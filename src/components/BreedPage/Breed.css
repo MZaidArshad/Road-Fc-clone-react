@@ -1,0 +1,85 @@
+.breed-container {
+  background: rgba(26, 28, 35, 0.96);
+  box-shadow: 0 8px 8px rgb(0 0 0 / 8%);
+  border-radius: 27px;
+  border: 1px solid #fd5043;
+  justify-content: center;
+  text-align: center;
+}
+
+.breed-section-img {
+  position: relative;
+  margin-top: -33px;
+}
+
+.Breed-box {
+  background: #26282f;
+  border-radius: 15px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #b1b1b1;
+}
+.BreedBoxs {
+  background: #000;
+  border-radius: 16px;
+  box-shadow: 0 0 15px rgb(254 75 62 / 25%);
+}
+
+.BreedBoxs img {
+  width: 70px;
+}
+.BreedminiBox {
+  background: linear-gradient(90deg, #f3441e80, #f3771e80 48.96%, #f3441e80);
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 100%;
+  color: #fff;
+}
+
+.breedtext1 {
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 144%;
+  color: #5e606e;
+}
+
+.boxes-breed {
+  background: linear-gradient(90deg, #0f1116, rgba(16, 17, 22, 0.25));
+  border-radius: 8px;
+}
+
+.breed-psans {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 132%;
+  color: #5e606e;
+}
+
+.bredd-span {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 132%;
+  color: #fff;
+}
+
+.breed-btn {
+  background: linear-gradient(180deg, #ff5043, #f92d1e);
+  border-radius: 50px;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 132%;
+  color: #fff;
+  padding: 10px 0;
+}
+
+.breedboxs12 {
+  background: #1e0003;
+  box-shadow: 0 8px 8px rgb(0 0 0 / 8%);
+  -webkit-backdrop-filter: blur(16px);
+  backdrop-filter: blur(16px);
+  border-radius: 16px;
+}
+.breedboxs123 {
+  height: 550px;
+}

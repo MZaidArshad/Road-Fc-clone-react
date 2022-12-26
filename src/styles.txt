@@ -1,0 +1,12 @@
+Colors
+
+background-color: rgb(17, 18, 23);
+
+background: linear-gradient(90deg,#1c1e26,#1c1e26),linear-gradient(180deg,#ff5043,transparent);
+box-shadow: 0 10px 8px -4px #000;
+
+##Button Colors
+    background: linear-gradient(90deg,#f92d1e 1.7%,#ff5043);
+
+##Social Icons Color
+    color: rgb(188, 90, 90);

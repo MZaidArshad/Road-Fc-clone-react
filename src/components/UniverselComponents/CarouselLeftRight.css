@@ -1,0 +1,29 @@
+.MyCollectionspan {
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 17px;
+  color: #5e606e;
+}
+
+.bosCollection {
+  background: rgba(41, 44, 56, 0.16);
+  border: 2px solid #292c38;
+  box-sizing: border-box;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 70px;
+  height: 30px;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 132%;
+  color: #fff;
+}
+
+.MyCollectionspan {
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 17px;
+  color: #5e606e;
+}
